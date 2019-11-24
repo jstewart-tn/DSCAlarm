@@ -1,7 +1,7 @@
 /*
  *  DSC Zone Contact Device
  *
- *  Author: Jordan <jordan@xeron.cc>
+ *  Author: Jordan <jordan1@xeron.cc>
  *  Originally By: Matt Martz <matt.martz@gmail.com>, Kent Holloway <drizit@gmail.com>
  *  Date: 2018-08-29
  */
